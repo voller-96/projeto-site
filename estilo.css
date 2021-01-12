@@ -1,0 +1,64 @@
+#image_1{
+  display:inline-block;
+  padding:10px;
+  margin: 0 30px;
+}
+.nav_buttons{
+  display:inline;
+  position:relative;
+  left:850px;
+  bottom:55px;
+  font-size:14px;
+  color:#808080;
+  margin-left:6px;
+}
+
+.nav_buttons:houver {
+  color:#FFA500;
+}
+
+.main {
+  margin-left:40px;
+  margin-top:40px;
+  margin-bottom:40px;
+}
+
+.main h1 {
+  color:#878a8c;
+  font-size:40px;
+  font-family: Open Sans;
+}
+
+.main h1 strong {
+  color:#FFA500;
+}
+
+.botao_contratar {
+  background-color:#FFA500;
+  padding : 25px 60px;
+  font-size:16px;
+  color:#FFFFFF;
+  border:1px solid #FFA500
+}
+
+.botao_contratar:hover {
+  padding:25px 180px;
+  background:#000000;
+  border:1px solid #000000;
+  animation-name: example;
+  animation-duration:4s;
+}
+
+.botao_modelos {
+  background-color:#FFFFFF;
+  padding : 25px 20px;
+  font-size:16px;
+  color:#000000;
+  border:2px solid #000000;
+  margin-left:10px;
+}
+
+.botao_modelos:hover {
+  background:#000000;
+  color:#FFFFFF;
+}
